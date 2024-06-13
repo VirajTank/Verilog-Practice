@@ -34,7 +34,7 @@ Welcome to the Verilog Practice Problems repository! This repository contains a 
 [Universal Shift Register](https://github.com/VirajTank/Verilog-Practice/tree/main/27_Universal_shift_register) <br>
 [Asynchronous Counter](https://github.com/VirajTank/Verilog-Practice/tree/main/28_asynchronous_counter) <br>
 [Synchronous Conter](https://github.com/VirajTank/Verilog-Practice/tree/main/29_synchronous_counter) <br>
-[moore 1010 Sequence Detector](https://github.com/VirajTank/Verilog-Practice/tree/main/30_moore_1010_sequence_detector) <br>
+[Moore 1010 Sequence Detector](https://github.com/VirajTank/Verilog-Practice/tree/main/30_moore_1010_sequence_detector) <br>
 [Mealy 1010 Sequence Detector](https://github.com/VirajTank/Verilog-Practice/tree/main/31_mealy_1010_sequence_detector) <br>
 
 
