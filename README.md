@@ -5,7 +5,7 @@ Welcome to the Verilog Practice Problems repository! This repository contains a 
 
 [01_half_adder](https://github.com/VirajTank/Verilog-Practice/tree/main/01_half_adder.) <br>
 [02_full_adder](https://github.com/VirajTank/Verilog-Practice/tree/main/02_full_adder) <br>
-[02_full_adder](https://github.com/VirajTank/Verilog-Practice/tree/main/02_full_adder) <br>
+[03_half_subtractor](https://github.com/VirajTank/Verilog-Practice/tree/main/03_half_subtractor) <br>
 [02_full_adder](https://github.com/VirajTank/Verilog-Practice/tree/main/02_full_adder) <br>
 [02_full_adder](https://github.com/VirajTank/Verilog-Practice/tree/main/02_full_adder) <br>
 [02_full_adder](https://github.com/VirajTank/Verilog-Practice/tree/main/02_full_adder) <br>
